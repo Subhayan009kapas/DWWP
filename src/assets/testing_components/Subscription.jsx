@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import TopUpCard from "./topUpCard";
+import TopUpCard from "./TopUpCard";
 import "./Subscription.css";
 
 const Subscription = () => {
